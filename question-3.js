@@ -1,7 +1,7 @@
 // Question #3
-let userPassword = "ssswnalWadqQ";
+//let userPassword = "ssswnalWadqQ";
 //let userPassword = "TechUp";
-//let userPassword = "abcde";
+let userPassword = "abcde";
 
 checkPasswordStrength = (password) => {
   let result = "";

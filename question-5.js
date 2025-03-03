@@ -17,7 +17,7 @@ const products = [
   },
 ];
 
-const promotionCode = "SALE20";
+const promotionCode = "SALE50";
 
 calculateTotalPrice = (products, promotionCode) => {
   let totalPrice = 0;
